@@ -10,9 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Project 1: Virtualbox를 이용한 클라우드 인프라 구성
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+![project1_network_diagram.jpg](./assets/network/architecture/project1_network_diagram.jpg)
+- Platform: Virtualbox (Private Cloud)
+- Concept: 보안 영역과 서비스 영역 분리
 
 ## Header 2
 
