@@ -12,4 +12,4 @@ layout: default
 - WAF
 - WAS: Ubuntu 20.04, nginx 1.18.0, wordpress 5.5.3, mysql
 
-[back](./)
+[back](././)
