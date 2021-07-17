@@ -15,6 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ![project1_network_diagram.jpg](./assets/network/architecture/project1_network_diagram.jpg)
 - Platform: Virtualbox (Private Cloud)
 - Concept: 보안 영역과 서비스 영역 분리
+- [Details](./project/pj1_vb.md)
 
 ## Header 2
 
